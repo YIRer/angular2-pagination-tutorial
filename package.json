@@ -11,6 +11,10 @@
     "e2e": "ng e2e"
   },
   "private": true,
+  "repository": {
+      "type": "git",
+      "url": "git+https://github.com/YIRer/angular2-pagination-tutorial.gitt"
+    },
   "dependencies": {
     "@angular/animations": "^4.0.0",
     "@angular/common": "^4.0.0",
